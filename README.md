@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Raghavankutty
 
-- 👀 I’m interested in Django
+- 👀 I’m interested in Backend
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Placements 

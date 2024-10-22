@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me Raghavankutty
 
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Placements 
-- 📫 How to reach me :
+- 📫 How to reach me : raghavankutty35@gmail.com
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Editing
 
